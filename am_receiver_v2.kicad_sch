@@ -118,6 +118,16 @@
 		)
 		(uuid "7c14eb09-0d25-483d-9378-95f071ee285d")
 	)
+	(text "ŁK 2025"
+		(exclude_from_sim no)
+		(at 273.812 189.992 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+		)
+		(uuid "7cbf7be5-b23b-49ec-957a-464e116bc0bd")
+	)
 	(text "AUDIO\nAMP"
 		(exclude_from_sim no)
 		(at 236.474 122.936 0)
